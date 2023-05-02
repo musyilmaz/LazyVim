@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.12.2](https://github.com/LazyVim/LazyVim/compare/v2.12.1...v2.12.2) (2023-05-02)
+
+
+### Bug Fixes
+
+* **mason:** exclude filetype mason in indent-blankline.nvim ([#701](https://github.com/LazyVim/LazyVim/issues/701)) ([ea48588](https://github.com/LazyVim/LazyVim/commit/ea4858874b983e4b3a8a7078828d98533e386035))
+
 ## [2.12.1](https://github.com/LazyVim/LazyVim/compare/v2.12.0...v2.12.1) (2023-04-28)
 
 
